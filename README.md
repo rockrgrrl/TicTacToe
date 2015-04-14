@@ -1,2 +1,2 @@
 # TicTacToe
-An unbeatable Tic Tac Toe game
+An unbeatable Tic Tac Toe game.
